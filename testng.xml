@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="/Users/sumeshsuseelan/Documents/work/api.automation.backend"><classes><class name="api.test.BookingTest"><methods><include name="testBookUser"/><include name="testAllBookingDetails"/></methods></class></classes></test></suite>
